@@ -1,0 +1,6 @@
+Feature requirements
+
+- Implement a "simple number class"
+- The number should have an "add" method
+- The number should have an "multiply" method
+- The number should raise an exception if initialized with invalid type
