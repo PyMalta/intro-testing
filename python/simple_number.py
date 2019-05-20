@@ -5,7 +5,8 @@ class SimpleNumber:
         self.x = num
 
     def add(self, y):
-        return self.x + y + 1
+        return self.x + y
 
     def multiply(self, y):
         return self.x * y
+
