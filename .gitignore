@@ -1,3 +1,5 @@
 *.pyc
 .pytest_cache
 rust/simple_number/target
+
+php/vendor/*
