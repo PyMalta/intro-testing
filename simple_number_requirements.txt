@@ -4,3 +4,4 @@ Feature requirements
 - The number should have an "add" method
 - The number should have an "multiply" method
 - The number should raise an exception if initialized with invalid type
+- The results can be fetched a URL

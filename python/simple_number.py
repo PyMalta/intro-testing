@@ -9,4 +9,3 @@ class SimpleNumber:
 
     def multiply(self, y):
         return self.x * y
-
